@@ -1,0 +1,73 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Fraktake.vcxproj, Fraktale.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  transformations.cpp
+  io.cpp
+  draw.cpp
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(46,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(56,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(56,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(56,126): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(56,113): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(74,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(74,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(75,103): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(75,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(76,125): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(76,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(77,113): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(77,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+C:\Users\radek\Desktop\Fractals\Fractals\draw.cpp(106): warning C4715: 'save_to_file': not all control paths return a value
+  Fraktake.vcxproj -> C:\Users\radek\Desktop\Fractals\x64\Debug\Fractals.exe
